@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="toast_message">Toast Message</string>
+    <string name="desc">desc</string>
+</resources>
